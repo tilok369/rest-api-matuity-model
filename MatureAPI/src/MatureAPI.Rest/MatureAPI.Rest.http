@@ -1,0 +1,6 @@
+@MatureAPI.Rest_HostAddress = http://localhost:5153
+
+GET {{MatureAPI.Rest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

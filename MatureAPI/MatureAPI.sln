@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{45D76F9B-71AC-44D2-B617-A2458AE8C5AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatureAPI.Rest", "src\MatureAPI.Rest\MatureAPI.Rest.csproj", "{050271BC-24C4-481D-A63C-1653D0F09F48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{050271BC-24C4-481D-A63C-1653D0F09F48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{050271BC-24C4-481D-A63C-1653D0F09F48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{050271BC-24C4-481D-A63C-1653D0F09F48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{050271BC-24C4-481D-A63C-1653D0F09F48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{050271BC-24C4-481D-A63C-1653D0F09F48} = {45D76F9B-71AC-44D2-B617-A2458AE8C5AC}
+	EndGlobalSection
+EndGlobal
